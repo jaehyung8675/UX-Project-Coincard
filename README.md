@@ -1,4 +1,4 @@
-Coin Card app
+# Coin Card app
 
 Demo - https://adobe.ly/3Co1i11
 
